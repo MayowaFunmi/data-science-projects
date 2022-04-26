@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4245be00-03e5-4161-a0ef-3612adccd7b2" name="Changes" comment="" />
+    <list default="true" id="4245be00-03e5-4161-a0ef-3612adccd7b2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/.ipynb_checkpoints/cars_analysis-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/projects/.ipynb_checkpoints/cars_analysis-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/cars_analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/projects/cars_analysis.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonfiles/.ipynb_checkpoints/Seaborn_tutorial-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pythonfiles/.ipynb_checkpoints/Seaborn_tutorial-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonfiles/Pandas_w3school.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pythonfiles/Pandas_w3school.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonfiles/Seaborn_tutorial.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pythonfiles/Seaborn_tutorial.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
